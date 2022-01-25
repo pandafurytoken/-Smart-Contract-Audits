@@ -1,2 +1,8 @@
 # -Smart-Contract-Audits
-Smart Contract security audit reports
+Smart Contract Security Audit Reports
+
+Provided by credshields.com
+
+https://credshields.com/
+
+https://solidityscan.com/
